@@ -2,7 +2,6 @@ from Classes.Query import Query
 from Classes.Document import Document
 from IndexingWithWhoosh.MyIndexReader import MyIndexReader
 from math import prod
-from tqdm import tqdm
 
 
 class QueryRetrievalModel:
