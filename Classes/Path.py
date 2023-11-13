@@ -10,3 +10,4 @@ IndexWebDir="data//indexweb//"
 
 # address of topics.txt
 TopicDir="data//topics.txt"
+StopWordDir="data//stopword.txt"
